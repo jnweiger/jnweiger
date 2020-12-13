@@ -1,7 +1,8 @@
-<table border="0" width="100%"><tr width="100%" border="0">
-<td align="left" ><a href="https://github.com/jnweiger/inkscape-round-corners"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jnweiger&repo=inkscape-round-corners&theme=merko"></a></td>
-<td align="right"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jnweiger&theme=dark&show_icons=true"></a></td>
-</tr></table>
+<p class="width-full">
+<table class="width-full" cellspacing="0" cellpadding="0" border="0"><tr class="width-full">
+<td width="800px" align="left" ><a href="https://github.com/jnweiger/inkscape-round-corners"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jnweiger&repo=inkscape-round-corners&theme=merko"></a></td>
+<td width="350px" align="right"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jnweiger&theme=dark&show_icons=true"></a></td>
+</tr></table></p>
 <!--
 **jnweiger/jnweiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
