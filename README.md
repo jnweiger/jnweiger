@@ -1,4 +1,5 @@
-![jnweiger's github stats](https://github-readme-stats.vercel.app/api?username=jnweiger&theme=merko&show_icons=true) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jnweiger&repo=inkscape-round-corners&theme=merko)](https://github.com/jnweiger/inkscape-round-corners)
+[![jnweiger's github stats](https://github-readme-stats.vercel.app/api?username=jnweiger&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jnweiger&repo=inkscape-round-corners&theme=merko)](https://github.com/jnweiger/inkscape-round-corners)
 
 <!--
 **jnweiger/jnweiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
